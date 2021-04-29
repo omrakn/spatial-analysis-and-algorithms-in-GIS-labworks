@@ -5,9 +5,9 @@ Prepared for _Spatial Analysis and Algorithms in GIS_ course given in the Geomat
 * __Week 1:__ Basic Vector Operations (QGIS)
 * __Week 2:__ Basic Raster Operations (QGIS)
 * __Week 3:__ Topology (QGIS)
-* __Week 4:__ Spatial Database Development & Applications (QGIS-POSTGIS)
-* __Week 5:__ Spatial Relationships & Geometric Operations (QGIS-POSTGIS)
-* __Week 6:__ Cost Distances & Centering Analysis (QGIS-POSTGIS)
+* __Week 4:__ Spatial Database Development & Applications (QGIS-PostGIS)
+* __Week 5:__ Spatial Relationships & Geometric Operations (QGIS-PostGIS)
+* __Week 6:__ Cost Distances & Centering Analysis (QGIS-PostGIS)
 * __Week 7:__ Grid Based Analysis (ArcGIS Pro-ModelBuilder)
 * __Week 8:__ *
 * __Week 9:__ *
