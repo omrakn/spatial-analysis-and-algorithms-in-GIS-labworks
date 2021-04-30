@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "dist_matrix_Gungoren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5254" } },
+"features": [
+{ "type": "Feature", "properties": { "InputID": 3, "MEAN": 1252.0421966440435, "STDDEV": 829.93177710177122, "MIN": 198.06948477089216, "MAX": 2332.6918308159165 }, "geometry": { "type": "Point", "coordinates": [ 405374.385420923354104, 4544616.252681970596313 ] } },
+{ "type": "Feature", "properties": { "InputID": 4, "MEAN": 1323.159740373676, "STDDEV": 834.41218782005888, "MIN": 198.0694847709037, "MAX": 2470.945116876786 }, "geometry": { "type": "Point", "coordinates": [ 405552.425505431601778, 4544703.096663189120591 ] } },
+{ "type": "Feature", "properties": { "InputID": 6, "MEAN": 2392.3068462667493, "STDDEV": 324.17354894147917, "MIN": 2176.7948955600405, "MAX": 3108.5764428663169 }, "geometry": { "type": "Point", "coordinates": [ 406842.199097044300288, 4542819.117211674340069 ] } },
+{ "type": "Feature", "properties": { "InputID": 7, "MEAN": 1493.3077729104436, "STDDEV": 501.73172411954181, "MIN": 790.13907610303897, "MAX": 2270.9478613691613 }, "geometry": { "type": "Point", "coordinates": [ 404680.739007602329366, 4543516.556470721960068 ] } },
+{ "type": "Feature", "properties": { "InputID": 8, "MEAN": 1858.0625362081312, "STDDEV": 960.59963647258257, "MIN": 830.80506606697963, "MAX": 3108.5764428662537 }, "geometry": { "type": "Point", "coordinates": [ 405176.020696359802969, 4545443.845332155004144 ] } },
+{ "type": "Feature", "properties": { "InputID": 9, "MEAN": 2176.1793428413785, "STDDEV": 599.33110034521894, "MIN": 1136.877457621044, "MAX": 3098.8232315088189 }, "geometry": { "type": "Point", "coordinates": [ 404709.92732498596888, 4542379.926684817299247 ] } },
+{ "type": "Feature", "properties": { "InputID": 10, "MEAN": 1214.9207786614477, "STDDEV": 620.88912289066195, "MIN": 510.38257268627746, "MAX": 2194.4621859128924 }, "geometry": { "type": "Point", "coordinates": [ 405116.852685658726841, 4544175.543241125531495 ] } }
+]
+}

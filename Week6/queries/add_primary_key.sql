@@ -1,0 +1,1 @@
+ALTER TABLE lab6.hospitals ADD PRIMARY KEY (fid)

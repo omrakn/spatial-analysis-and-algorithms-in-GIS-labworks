@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "hospitals_Gungoren",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5254" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 3, "name": "SB� Ba�c�lar E�itim ve Ara�t�rma Hastanesi G�ng�re", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 405374.385420923354104, 4544616.252681970596313 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Bak�rk�y Prof.Dr.Mazhar Osman Ruh Sa�. ve Sinir Ha", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 405552.425505431601778, 4544703.096663189120591 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "�BB Tozkoparan T�p Merkezi", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 406842.199097044300288, 4542819.117211674340069 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "�zel �lgi Hastanesi", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 404680.739007602329366, 4543516.556470721960068 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "�zel Huzur T�p Merkezi", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 405176.020696359802969, 4545443.845332155004144 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "�zel Meltem Hastanesi ve Do�um Hastanesi", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 404709.92732498596888, 4542379.926684817299247 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "�zel G�ng�ren Hastanesi", "fclass": "hospital", "ilce_adi": "Güngören" }, "geometry": { "type": "Point", "coordinates": [ 405116.852685658726841, 4544175.543241125531495 ] } }
+]
+}
