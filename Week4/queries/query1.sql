@@ -1,0 +1,2 @@
+SELECT p.*, m.ilce_adi FROM municipalities.poi AS p, municipalities.districts AS m, municipalities.flooding_areas AS f 
+WHERE p.d_id = m.d_id AND st_intersects(p.geom, f.geom) AND p.fclass = 'school' ORDER BY d_id

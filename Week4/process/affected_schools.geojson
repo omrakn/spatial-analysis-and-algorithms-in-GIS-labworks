@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "affected_schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5254" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6192, "fid": 6192, "osm_id": "5053706856", "code": 2082, "fclass": "school", "name": "Pertevniyal Lisesi", "d_id": 29, "ilce_adi": "Fatih" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 411915.802032578212675, 4542402.981081584468484 ] ] } },
+{ "type": "Feature", "properties": { "id": 6469, "fid": 6469, "osm_id": "5081274337", "code": 2082, "fclass": "school", "name": "Oruçgazi Ortaokulu", "d_id": 29, "ilce_adi": "Fatih" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 411905.263230345386546, 4542471.28393591567874 ] ] } },
+{ "type": "Feature", "properties": { "id": 17060, "fid": 17060, "osm_id": "4511934494", "code": 2082, "fclass": "school", "name": "Nurullah Baldöktü İlkokulu", "d_id": 13, "ilce_adi": "Silivri" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 353134.771320229687262, 4550838.43162414431572 ] ] } },
+{ "type": "Feature", "properties": { "id": 17127, "fid": 17127, "osm_id": "5094968923", "code": 2082, "fclass": "school", "name": "Hasan Özvarnalı İlkokulu", "d_id": 13, "ilce_adi": "Silivri" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 352175.258625385933556, 4550575.451302758418024 ] ] } }
+]
+}
